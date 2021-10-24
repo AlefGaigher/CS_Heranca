@@ -1,0 +1,32 @@
+C:\Users\User\Documents\Aprendendo c#\bin\Debug\net5.0\Aprendendo c#.exe
+C:\Users\User\Documents\Aprendendo c#\bin\Debug\net5.0\Aprendendo c#.deps.json
+C:\Users\User\Documents\Aprendendo c#\bin\Debug\net5.0\Aprendendo c#.runtimeconfig.json
+C:\Users\User\Documents\Aprendendo c#\bin\Debug\net5.0\Aprendendo c#.runtimeconfig.dev.json
+C:\Users\User\Documents\Aprendendo c#\bin\Debug\net5.0\Aprendendo c#.dll
+C:\Users\User\Documents\Aprendendo c#\bin\Debug\net5.0\ref\Aprendendo c#.dll
+C:\Users\User\Documents\Aprendendo c#\bin\Debug\net5.0\Aprendendo c#.pdb
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\Aprendendo c#.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\Aprendendo c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\Aprendendo c#.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\Aprendendo c#.AssemblyInfo.cs
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\Aprendendo c#.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\Aprendendo c#.dll
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\ref\Aprendendo c#.dll
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\Aprendendo c#.pdb
+C:\Users\User\Documents\Aprendendo c#\obj\Debug\net5.0\Aprendendo c#.genruntimeconfig.cache
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\Aprendendo c#.csproj.AssemblyReference.cache
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\Aprendendo c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\Aprendendo c#.AssemblyInfoInputs.cache
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\Aprendendo c#.AssemblyInfo.cs
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\Aprendendo c#.csproj.CoreCompileInputs.cache
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\Aprendendo c#.dll
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\ref\Aprendendo c#.dll
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\Aprendendo c#.pdb
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\bin\Debug\net5.0\Aprendendo c#.exe
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\bin\Debug\net5.0\Aprendendo c#.deps.json
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\bin\Debug\net5.0\Aprendendo c#.runtimeconfig.json
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\bin\Debug\net5.0\Aprendendo c#.runtimeconfig.dev.json
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\bin\Debug\net5.0\Aprendendo c#.dll
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\bin\Debug\net5.0\ref\Aprendendo c#.dll
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\bin\Debug\net5.0\Aprendendo c#.pdb
+C:\Users\alefg\Downloads\CS_POO-main\CS_POO-main\obj\Debug\net5.0\Aprendendo c#.genruntimeconfig.cache

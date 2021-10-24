@@ -1,2 +1,2 @@
-# CS_Heranca-Main
-Conceitos de herança em c# que aprendi e implementei através do curso da Alura
+# CS_POO
+Um projeto de C#, praticando orientação a objeto com a linguagem
